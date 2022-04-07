@@ -1,6 +1,6 @@
 # **This is my CSE 15L Lab Report**
 
-> O say, can you see \n
+> O say, can you see
 > By the dawn's early light
 > What so proudly we hail'd
 > At the twilight's last gleaming?
