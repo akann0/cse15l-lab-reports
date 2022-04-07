@@ -1,4 +1,4 @@
-** This is my CSE 15L Lab Report **
+# **This is my CSE 15L Lab Report**
 
 O say, can you see
 By the dawn's early light
@@ -13,5 +13,11 @@ The bombs bursting in air
 Gave proof through the night
 That our flag was still there
 O say, does that star-spangled banner yet wave
-O'er the land of the free
+O'er the land of the *free*
 And the home of the brave?
+
+
+[Link](http://sgf.ucsd.edu/)
+
+![Image](http://3.bp.blogspot.com/-WZmCSFTE3FU/ToDMt_iJRlI/AAAAAAAAB8Y/maygm5mErpc/s1600/Sungod.jpg)
+
