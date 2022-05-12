@@ -22,9 +22,6 @@
  ### **Here's me running git commands in my terminal**
  ![](report3-2-1.jpg) 
 
- ### **Here's me running git commands in my terminal**
- ![](report3-2-1.jpg) 
-
  ### **A link to the new [commit](https://github.com/akann0/markdown-parser/commit/586aee66e3ce4b4042041eab4226539d532df786)**
 
  ## **Task 3**
