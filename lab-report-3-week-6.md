@@ -9,7 +9,7 @@
  ![](configjpg.jpg)
 
  ### **Here's me copying a file using the shortcut** 
- ![](configscp.jpg)
+ ![](lab_3_scp.jpg)
 
  ## **Task 2**
 
