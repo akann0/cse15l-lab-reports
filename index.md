@@ -63,4 +63,4 @@ print 'indent 4 spaces'
 [Lab Report 2](https://akann0.github.io/cse15l-lab-reports/lab-report-2.html)  
 [Lab Report 3](https://akann0.github.io/cse15l-lab-reports/lab-report-3-week-6.html)  
 [Lab Report 4](https://akann0.github.io/cse15l-lab-reports/lab-report-4-week-8.html)  
-[Lab Report 5](https://akann0.github.io/cse15l-lab-reports/lab-report-4.html)  
+[Lab Report 5](https://akann0.github.io/cse15l-lab-reports/lab-report-5.html)  
